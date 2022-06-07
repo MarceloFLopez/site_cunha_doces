@@ -8,6 +8,8 @@
 - Este site foi desenvolvido para ser utilizado como cardapio, com intuito de aprensentar para os clinetes suas opções de compra.
 - Site funciona de modo estático usando as técnologias citadas a baixo, porem com o uso do JS é possível fazer um redirecionamento de página 
   diretamente para o aplicativo whatssapp para o cliente efeutar seu pedido.
+- Alem de também poder conhecer um pouco da nossa hístoria e de nossos valores, o site contem também um mapa informando nossa localização 
+  caso o cliente queria retirar seu pedido no local.  
 
  <div><h2>Técnologias Front-End</h2></div>
   <div style="display: inline_block"><br>  
